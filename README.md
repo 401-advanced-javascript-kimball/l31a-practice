@@ -1,19 +1,10 @@
-# l31a-practice
+# Lab 31a - Hooks API - Practice
 
-* [submission PR](https://github.com/401-advanced-javascript-kimball/l31a-practice/pull/1)
-* [travis](https://travis-ci.com/401-advanced-javascript-kimball/l31a-practice)
-
-# LAB - 
-
-## Project Name
-
-### Author: Student/Group Name
+### Author: Jonathan Kimball
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com) (when applicable)
-* [front-end](http://xyz.com) (when applicable)
+* [submission PR](https://github.com/401-advanced-javascript-kimball/l31a-practice/pull/1)
+* [travis](https://travis-ci.com/401-advanced-javascript-kimball/l31a-practice)
 
 #### Documentation
 * [api docs](http://xyz.com) (API servers)
