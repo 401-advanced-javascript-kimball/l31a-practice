@@ -1,7 +1,7 @@
 {
-  "name": "react-app",
+  "name": "class-31-starter-code-practice",
   "version": "1.0.0",
-  "description": "## Project Name",
+  "description": "## class 31 starter code practice",
   "main": "src/index.js",
   "dependencies": {
     "enzyme": "^3.10.0",
